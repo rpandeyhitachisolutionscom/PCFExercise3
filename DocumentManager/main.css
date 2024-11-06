@@ -1,0 +1,89 @@
+.top{
+    margin-top: -53px;
+    margin-bottom: 30px;
+    display: flex;
+    width: 896px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.download{
+
+}
+
+.download_text{
+    color: #1468fb;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.cp{
+    cursor: pointer;
+}
+.gp{
+    gap:20px;
+}
+
+.preview{
+    margin-top:40px;
+}
+.linktext{
+    color: blue;
+    cursor: pointer;
+}
+
+.dbutton{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(136, 23, 152);
+    border-radius: 8px;
+    height: 31px;
+    width: 90px;
+}
+.dflexd{
+    display: flex;
+    align-items: center;
+    gap:30px;
+}
+
+.alc{
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+.textp{
+    cursor: pointer;
+    color: rgb(17, 96, 183);
+    font-size: 16px;
+    font-family: "Segoe UI Regular", SegoeUI, "Segoe UI";
+    font-weight: 600;
+}
+.mt-18{
+    margin-top: 18px;
+}
+.dflexi{
+    display: flex;
+    align-items: center;
+    gap:7px;
+
+}
+.cnb{
+    cursor: pointer;
+    color: red;
+    margin-top: 2px;
+
+}
+
+.dflexc{
+    margin-top: 31px;
+}
+.fw-600{
+    font-weight: 600;
+}
